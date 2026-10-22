@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Back-End & Mobile Front-End
 
-📍 Tehran · 📧 [Amirali.mpg82@gmail.com](mailto:Amirali.mpg82@gmail.com) · 📞 09116408223
+📍 Tehran · 📧 [Amirali.mpg82@gmail.com](mailto:Amirali.mpg82@gmail.com)
 
 </div>
 
@@ -116,18 +116,10 @@ Computer Engineering student at Khajeh Nasiroddin Toosi University of Technology
 
 <p>
   <a href="mailto:Amirali.mpg82@gmail.com"><img src="https://img.shields.io/badge/Email-Amirali.mpg82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Phone-09116408223-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   <img src="https://img.shields.io/badge/Location-Tehran-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
 
 <div align="center">
 
