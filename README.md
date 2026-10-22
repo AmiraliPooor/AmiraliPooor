@@ -24,9 +24,9 @@ Skilled, motivated, and adaptable in diverse development environments.
 ### 🔹 Full-Stack Developer — [Institute of Applied Intelligent Systems](http://www.iais.ir/)
 `Mehr 1403 – Shahrivar 1404`
 
-Full-stack developer (**Java / Scala / Flutter**) focused on the mobile messenger [**WE**](https://cafebazaar.ir/app/ir.we.deliver) application, with some experience in the payment gateway (**Moneasy**) website. Strong expertise in mobile development and practical understanding of web technologies.
+Full-stack developer (**Java / Scala / Flutter**) focused on the mobile messenger [**WE**](https://cafebazaar.ir/app/ir.we.deliver) application, with some experience in the payment gateway [**Moneasy**](https://moneasy.ir/) website. Strong expertise in mobile development and practical understanding of web technologies.
 
-### 🔹 Flutter Developer — [Ayandeh Sazan Ertebaat Paya](#)
+### 🔹 Flutter Developer — [Ayandeh Sazan Ertebaat Paya]([#](https://rasmio.com/company/14007835224/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A2%DB%8C%D9%86%D8%AF%D9%87%20%D8%B3%D8%A7%D8%B2%D8%A7%D9%86%20%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%20%D9%BE%D8%A7%DB%8C%D8%A7))
 `Ordibehesht 1403 – Shahrivar 1403`
 
 Mobile application developer for CCTV camera control and related siren relays, enabling full parameter configuration via SIM card SMS. Specialized in secure, practical, and customizable mobile solutions.
@@ -93,13 +93,13 @@ Computer Engineering student at Khajeh Nasiroddin Toosi University of Technology
 
 | Period | Project | Description | Links |
 |:---:|---|---|---|
-| 1404 – 1405 | **HealthAI** | AI-powered digital healthcare platform | [See Website](#) · [Check Out Demo](#) |
-| 1403 – 1404 | **WE Messenger** | Cross-platform messaging application | [Download link](#) |
-| 1403 – 1404 | **Moneasy** | Online payment service | [See Website](#) |
-| 1402 – 1403 | **Persian Power** | CCTV & siren relay control mobile application | [Check Out Demo](#) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
-| 1402 – 1403 | **Beat Buzz** | Advanced alarm Android application | [Check Out Demo](#) · [Download link](#) |
-| 1403 | **Persian Power 2** | Unwired sirens relay control application | [Check Out Demo](#) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
-| 1402 | **Atlita** | Diskette builder app for Social Security Organization | [Check Out Demo](#) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
+| 1404 – 1405 | **HealthAI** | AI-powered digital healthcare platform | [See Website](https://healthai.net/) · [Check Out Demo](https://docs.google.com/document/d/1BL9zlKhjF73v0daEr8JsNGAa4wQOlW53bRx3b7BVm2A/edit?usp=sharing) |
+| 1403 – 1404 | **WE Messenger** | Cross-platform messaging application | [Download link](https://cafebazaar.ir/app/ir.we.deliver) |
+| 1403 – 1404 | **Moneasy** | Online payment service | [See Website](https://moneasy.ir/) |
+| 1402 – 1403 | **Persian Power** | CCTV & siren relay control mobile application | [Check Out Demo](https://docs.google.com/document/d/1zGRhI_cElboBm2DiZhCJ2CRJq_2tFjDvEZ5A9GQzJHA/edit?usp=sharing) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
+| 1402 – 1403 | **Beat Buzz** | Advanced alarm Android application | [Check Out Demo](https://docs.google.com/document/d/1E5x5vcqQYbPy4-PzUZPeCZjZC9CBTnQxZXmwcCGY5Bc/edit?usp=sharing) · [Download link](https://drive.google.com/file/d/1KnWHUO9mwA-MrpIf5_Y2cpqX7CyVq3n6/view?usp=sharing) |
+| 1403 | **Persian Power 2** | Unwired sirens relay control application | [Check Out Demo](https://docs.google.com/document/d/1QEH2Xq3auPX_xnJjtJhMqECgDo13SIfW148kPdu9eaE/edit?usp=sharing) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
+| 1402 | **Atlita** | Diskette builder app for Social Security Organization | [Check Out Demo](https://docs.google.com/document/d/1Dn9Q69tgARERhCZ72nMVE6jHcyC-EbJDydyn_N4eDns/edit?usp=sharing) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
 
 ---
 
@@ -107,8 +107,8 @@ Computer Engineering student at Khajeh Nasiroddin Toosi University of Technology
 
 | Certificate | Provider | Links |
 |---|---|---|
-| **Java Programming Course** | Faradars | [Certificate Link](#) · [Certificate Image](#) |
-| **Associate DevOps Engineer Course** | Arvan Academy | [Certificate Link](#) · [Certificate Image](#) |
+| **Java Programming Course** | Faradars | [Certificate Link](https://faradars.org/verify/4D0FF44E) · [Certificate Image](https://docs.google.com/document/d/1WaGmQl82AXYnWV0clnbHPAwxZ2FY5zKlf32pgOsTH0w/edit?usp=sharing) |
+| **Associate DevOps Engineer Course** | Arvan Academy | [Certificate Link](https://academy.arvancloud.ir/certificate/12D64E82B-12D17DA04-12CFA3FDC/) · [Certificate Image](https://docs.google.com/document/d/1ijvKS0iDB38KAUYK2hqMvNutV1Ko4jkV5KYL2iA4InE/edit?usp=sharing) |
 
 ---
 
