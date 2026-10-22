@@ -24,7 +24,7 @@ Skilled, motivated, and adaptable in diverse development environments.
 ### 🔹 Full-Stack Developer — [Institute of Applied Intelligent Systems](http://www.iais.ir/)
 `Mehr 1403 – Shahrivar 1404`
 
-Full-stack developer (**Java / Scala / Flutter**) focused on the mobile messenger (**WE**) application, with some experience in the payment gateway (**Moneasy**) website. Strong expertise in mobile development and practical understanding of web technologies.
+Full-stack developer (**Java / Scala / Flutter**) focused on the mobile messenger [**WE**](https://cafebazaar.ir/app/ir.we.deliver) application, with some experience in the payment gateway (**Moneasy**) website. Strong expertise in mobile development and practical understanding of web technologies.
 
 ### 🔹 Flutter Developer — [Ayandeh Sazan Ertebaat Paya](#)
 `Ordibehesht 1403 – Shahrivar 1403`
