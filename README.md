@@ -1,106 +1,136 @@
 <div align="center">
 
-Amirali Mohammadpoor
-Full-Stack Developer · Backend Development · Mobile Applications
-Tehran, Iran · Email · 09116408223
+# Hi, I'm Amirali Mohammadpoor 👋
+
+### Full-Stack Developer · Back-End & Mobile Front-End
+
+📍 Tehran · 📧 [Amirali.mpg82@gmail.com](mailto:Amirali.mpg82@gmail.com) · 📞 09116408223
 
 </div>
 
-About Me
-Full-stack developer focused on backend development and mobile front-end engineering, with professional experience in backend solutions and mobile application development. I have worked with Java, Scala, and Flutter, including a cross-platform messaging application and a payment-service website. I am motivated, adaptable, and comfortable working in diverse development environments.
-- Professional experience: 2 years, as stated in my resume
-- Education: Bachelor's degree in Computer Engineering — K. N. Toosi University of Technology, Tehran
-- University enrollment: Mehr 1401
-- Primary focus: Backend development and cross-platform mobile applications
-Work Experience
-Full-Stack Developer — Institute of Applied Intelligent Systems
-Mehr 1403 – Shahrivar 1404
-- Worked on the WE mobile messenger, using Java, Scala, and Flutter.
-- Gained experience with the Moneasy payment-gateway website.
-- Focused on mobile development, with practical understanding of web technologies.
-Flutter Developer — Ayandeh Sazan Ertebaat Paya
-Ordibehesht 1403 – Shahrivar 1403
-- Developed a mobile application for controlling CCTV cameras and related siren relays.
-- Enabled full parameter configuration through SIM-card SMS.
-- Focused on secure, practical, and customizable mobile solutions.
-Freelance Flutter Developer
-Aban 1402 – Farvardin 1403
-- Developed mobile applications including a Social Security Organization list builder.
-- Built an advanced alarm-system application.
-- Delivered practical, efficient, and user-oriented mobile solutions.
-Technical Skills
-Programming Languages
+---
 
+## 👨‍💻 About Me
 
+Full-stack developer specialized in **back-end development** and **mobile front-end**.
+Final-year **Computer Engineering** student at **K. N. Toosi University of Technology** with a top GPA.
+I have **2 years of professional experience** in back-end solutions and mobile programming.
+Skilled, motivated, and adaptable in diverse development environments.
 
+---
 
+## 💼 Work Experience
 
+### 🔹 Full-Stack Developer — [Institute of Applied Intelligent Systems](#)
+`Mehr 1403 – Shahrivar 1404`
 
-Frameworks and Libraries
+Full-stack developer (**Java / Scala / Flutter**) focused on the mobile messenger (**WE**) application, with some experience in the payment gateway (**Moneasy**) website. Strong expertise in mobile development and practical understanding of web technologies.
 
+### 🔹 Flutter Developer — [Ayandeh Sazan Ertebaat Paya](#)
+`Ordibehesht 1403 – Shahrivar 1403`
 
+Mobile application developer for CCTV camera control and related siren relays, enabling full parameter configuration via SIM card SMS. Specialized in secure, practical, and customizable mobile solutions.
 
+### 🔹 Freelance Flutter Developer
+`Aban 1402 – Farvardin 1403`
 
+Freelance mobile developer experienced in creating applications such as a Social Security organization list builder and an advanced alarm system, delivering practical, efficient, and user-oriented mobile solutions.
 
+---
 
-Services, Protocols, and Tools
-- Messaging / streaming: Kafka
-- APIs: REST API, gRPC
-- Containers: Docker
-- Serialization: Protocol Buffers
-- Real-time communication: WebSocket, WebRTC Calls
-- Version control: Git, GitLab, GitHub
-Databases
-- SQL: MySQL, PostgreSQL, Oracle
-- NoSQL: Cassandra, MongoDB
-Engineering Practices
-- Object-Oriented Programming (OOP)
-- Clean Architecture
-Projects
-HealthAI — AI-Powered Digital Healthcare Platform
-1404–1405 · Website · Demo
+## 🎓 Education
 
-An AI-powered digital healthcare platform.
-WE Messenger — Cross-Platform Messaging Application
-1403–1404 · Download
+### Bachelor's Degree of Computer Engineering — Khajeh Nasiroddin Toosi University of Technology
+`Since Mehr 1401`
 
-A cross-platform messaging application.
-Moneasy — Online Payment Service
-1403–1404 · Website
+Computer Engineering student at Khajeh Nasiroddin Toosi University of Technology in Tehran, enrolled since Mehr 1401, maintaining a top GPA (A grade).
 
-An online payment service.
-Persian Power — CCTV & Siren Relay Control Mobile Application
-1402–1403 · Demo
+---
 
-A mobile application for CCTV and siren-relay control. Downloads are not available at the copyright owner's request.
-Beat Buzz — Advanced Alarm Android Application
-1402–1403 · Demo · Download
+## 🛠️ Tech Stack
 
-An advanced Android alarm application.
-Persian Power 2 — Unwired Sirens Relay Control Application
-1403 · Demo
+### Languages
 
-An application for controlling unwired siren relays. Downloads are not available at the copyright owner's request.
-Atlita — Diskette Builder App for the Social Security Organization
-1402 · Demo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-An application developed for the Social Security Organization. Downloads are not available at the copyright owner's request.
-Education
-Bachelor's Degree in Computer Engineering
-K. N. Toosi University of Technology · Tehran, Iran
-- Enrolled since Mehr 1401
-- Resume-listed academic standing: top GPA / A grade
-Certificates
-- Java Programming Course — Faradars: Certificate Link · Certificate Image
-- Associate DevOps Engineer Course — Arvan Academy: Certificate Link · Certificate Image
-Languages
-- English: 8/10
-- Arabic: 4/10
-Contact
-- Email: Amirali.mpg82@gmail.com
-- Phone: 09116408223
-- Location: Tehran, Iran
+### Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Akka](https://img.shields.io/badge/Akka-0A9EDC?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Play](https://img.shields.io/badge/Play-92D13D?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+
+### Services / Protocols
+
+![Kafka](https://img.shields.io/badge/Kafka_Service-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Protocol Buffer](https://img.shields.io/badge/Protocol_Buffer-4285F4?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC_Calls-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+### Side Skills
+
+| Category | Skills |
+|---|---|
+| 🗄️ **SQL Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| 🍃 **NoSQL Databases** | ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) ![Mongo](https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🧠 **Concepts** | Object-Oriented Programming (OOP) · Clean Architecture |
+| 🔧 **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| 🌐 **Languages** | English (8/10) · Arabic (4/10) |
+
+---
+
+## 🚀 Projects Involved
+
+| Period | Project | Description | Links |
+|:---:|---|---|---|
+| 1404 – 1405 | **HealthAI** | AI-powered digital healthcare platform | [See Website](#) · [Check Out Demo](#) |
+| 1403 – 1404 | **WE Messenger** | Cross-platform messaging application | [Download link](#) |
+| 1403 – 1404 | **Moneasy** | Online payment service | [See Website](#) |
+| 1402 – 1403 | **Persian Power** | CCTV & siren relay control mobile application | [Check Out Demo](#) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
+| 1402 – 1403 | **Beat Buzz** | Advanced alarm Android application | [Check Out Demo](#) · [Download link](#) |
+| 1403 | **Persian Power 2** | Unwired sirens relay control application | [Check Out Demo](#) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
+| 1402 | **Atlita** | Diskette builder app for Social Security Organization | [Check Out Demo](#) <br> ⚠️ *At the request of the copyright owner, downloading is not allowed.* |
+
+---
+
+## 📜 Certificates
+
+| Certificate | Provider | Links |
+|---|---|---|
+| **Java Programming Course** | Faradars | [Certificate Link](#) · [Certificate Image](#) |
+| **Associate DevOps Engineer Course** | Arvan Academy | [Certificate Link](#) · [Certificate Image](#) |
+
+---
+
+## 📫 Get in Touch
+
+<p>
+  <a href="mailto:Amirali.mpg82@gmail.com"><img src="https://img.shields.io/badge/Email-Amirali.mpg82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Phone-09116408223-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  <img src="https://img.shields.io/badge/Location-Tehran-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
 <div align="center">
 
-Thanks for visiting my profile.
+⭐ *Thanks for visiting my profile!* ⭐
+
 </div>
